@@ -12,4 +12,10 @@ G->Generates a new random maze and displays it.<br />
 IMPORTANT! You can run the controls below only if you choose the start and finish point first! You can't choose the start or finish point to be a wall(black node).<br />
 B->Runs a bfs alghorithm and paints purple the nodes which you can reach from the start node.<br />
 S->Finds the sorthest path from the start to the finish node and paints it yellow.<br />
+<br />
 
+Further inprovements:<<br />
+  Visualization of the BFS alghortihm steps.<br />
+  Adding a DFS alghorithm and visualization of the DFS alghortihm steps.<br />
+  Developing a game based on that idea.<br />
+  
