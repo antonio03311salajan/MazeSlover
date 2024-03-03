@@ -39,8 +39,6 @@ public class MazePanel extends JPanel implements ActionListener, MouseListener, 
         bfsImg = new ImageIcon(getClass().getResource("./BfsNode.png")).getImage();
         spImg = new ImageIcon(getClass().getResource("./SpImg.png")).getImage();
         maze.NodesToArr();
-//        Timer gameLoop = new Timer(1000 / 60, this);
-//        gameLoop.start();
     }
 
     @Override
