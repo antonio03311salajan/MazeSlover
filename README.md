@@ -6,6 +6,6 @@ A maze solver with visual representation in Java that generates a random maze an
 
 When you will run the program a random maze will become visible. After that, you can press I for information about the controls of the program:
 Controls:
-IMPORTANT! You can run the controls below only if you choose the start and finish point first! You can't choose the start or finish point to be inside of a wall(black node).
+IMPORTANT! You can run the controls below only if you choose the start and finish point first! You can't choose the start or finish point to be a wall(black node).
 B->Runs a bfs alghorithm and paints in purple the nodes which you can reach from the start node.
 
