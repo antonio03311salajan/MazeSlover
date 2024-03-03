@@ -7,6 +7,9 @@ It also shows the shortest path from the start node to the finish node.
 
 When you will run the program a random maze will become visible. After that, you can press I for information about the controls of the program:<br />
 Controls:<br />
+R->Removes the coloring from the maze.<br />
+G->Generates a new random maze and displays it.<br />
 IMPORTANT! You can run the controls below only if you choose the start and finish point first! You can't choose the start or finish point to be a wall(black node).<br />
-B->Runs a bfs alghorithm and paints in purple the nodes which you can reach from the start node.<br />
+B->Runs a bfs alghorithm and paints purple the nodes which you can reach from the start node.<br />
+S->Finds the sorthest path from the start to the finish node and paints it yellow.<br />
 
